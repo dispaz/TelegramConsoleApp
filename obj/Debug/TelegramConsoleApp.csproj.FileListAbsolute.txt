@@ -1,0 +1,12 @@
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\TelegramConsoleApp.exe.config
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\TelegramConsoleApp.exe
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\TelegramConsoleApp.pdb
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\Telegram.Bot.dll
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\bin\Debug\Telegram.Bot.xml
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\obj\Debug\TelegramConsoleApp.csprojAssemblyReference.cache
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\obj\Debug\TelegramConsoleApp.csproj.CoreCompileInputs.cache
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\obj\Debug\TelegramConsoleApp.csproj.CopyComplete
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\obj\Debug\TelegramConsoleApp.exe
+C:\VV\Projects\C#\TelegramConsoleApp\TelegramConsoleApp\obj\Debug\TelegramConsoleApp.pdb
